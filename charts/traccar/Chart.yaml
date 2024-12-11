@@ -3,7 +3,7 @@ name: traccar
 description: A Helm chart for Traccar GPS Server
 type: application
 version: 1.8.0
-appVersion: "5.10"
+appVersion: "6.5"
 dependencies:
   - name: mysql
     version: 9.4.8

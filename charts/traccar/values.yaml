@@ -133,7 +133,7 @@ image:
   pullPolicy: IfNotPresent
   # flavor: "" # available are alpine, debian or ubuntu
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "6.5"
 
 imagePullSecrets: []
 nameOverride: ""
